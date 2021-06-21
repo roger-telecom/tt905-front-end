@@ -1,0 +1,27 @@
+body{
+
+background-image: url("imagem de fundo.jpg");
+margin: auto;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h2 {
+
+color:rgb(255, 255, 255);
+
+}
+
+p {
+
+color:rgb(255, 255, 255);
+
+}
+
+label {
+
+color:rgb(255, 255, 255);
+
+}
+
